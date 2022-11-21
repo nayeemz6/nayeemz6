@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Nayeemul Islam
-- 👀 I’m interested in Coding and learning Sytem Security
-- 🌱 I’m currently learning InfoSec
+- 👀 I’m interested in Coding and fullstack web development 
+- 🌱 I’m currently doing Data Science 
 - 📫 nayeemz@hotmail.com
 
 <!---
