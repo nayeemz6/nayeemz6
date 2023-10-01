@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Nayeemul Islam
 - 👀 I’m interested in Coding and fullstack web development 
-- 🌱 I’m currently doing Data Science 
+- 🌱 Graduated in Msc Data scicence
 - 📫 nayeemz@hotmail.com
 
 <!---
